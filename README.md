@@ -1,13 +1,13 @@
 # ads sample 
-Banner ad "" ==> remove ads
-        "ca-app-pub"==> show admob banner ads
+Banner ad "" ==> remove ads\n
+        "ca-app-pub"==> show admob banner ads\n\n
         
-Admob_Inter ad "" ==> remove ads
-     "ca-app-pub"==> show admob inter ads
+Admob_Inter ad "" ==> remove ads\n
+     "ca-app-pub"==> show admob inter ads\n\n
 
-Fan_Inter ad "remove" ==> remove ads
-           "ca-app-pub"==> show admob inter ads
-           "fanads id " ==> show fan inteer ads
+Fan_Inter ad "remove" ==> remove ads\n
+           "ca-app-pub"==> show admob inter ads\n
+           "fanads id " ==> show fan inteer ads\n
 
 
            
