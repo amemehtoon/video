@@ -13,3 +13,6 @@ Fan_Inter ad "remove" ==> remove ads *
 
 
            
+bn ca-app-pub-1220290328747202/4949427003
+
+int  ca-app-pub-1220290328747202/5281852501
