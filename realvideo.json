@@ -1,1 +1,34 @@
-ssss
+{
+"version":"1.6",
+"message":"Please NEW APK Download\nယခု  APK ကို ‌ဒေါင်းပြီး ခဏသုံးထားပေးပါ။\n All KAR အသစ်များ စုစည်းပြီး  \n အသစ်ထုတ်ထားပါတယ် ခေါင်းကြီးတို့။  \n  မြန်မာ ချောင်းရိုက် နဲ့ ဆယ်လီမ HDတွေ ထက်ထည့်ပေးထားလို့  \n  ခုပဲ အပ်ဒိတ် တင်လိုက်ပါ။",
+"link":"https://play.google.com/store/apps/details?id=",
+"state":"off",
+"des":"မြန်မာနိုင်ငံမှာ နေသူများ video ကြည့်ရန် VPN ခံထားမို့ လိုအပ်ပါသည်။\n\n ကျေးဇူးပြု၍ VPN ခံပြီးဝင်ရောက်ပေးပါ မိတ်ဆွေ။ \nအာဘွား အရမ်းချစ်တယ်။ ",
+"pass":"you can search here what you want.",
+"faninter":"remove",
+"admob_Banner":"",
+"admob_BannerV":"",
+"admob_Inter":"",
+"admob_AppOpen":"ca-app-pub-3940256099942544/1033173712",
+"adstime":"3",
+"apyar":[
+{
+"title":"Burmese Food ",
+"image":"https://i.ibb.co/5TKZKfC/Screenshot-2025-01-10-13-27-22-497-com-android-chrome.png",
+"link":"https://raw.githubusercontent.com/ZinDown/data/refs/heads/main/myanmar.json",
+"type":"x"
+ },  
+ {
+"title":" Malaysia Food ",
+"image":"https://i.ibb.co/7rCfqRT/Screenshot-2025-01-10-13-50-18-124-com-android-chrome.png",
+"link":"https://raw.githubusercontent.com/ZinDown/data/refs/heads/main/malay.json",
+"type":"x"
+},  
+ { 
+  "title":"Japan food",
+  "image":"https://i.ibb.co/tpK3jRD/Screenshot-2025-01-10-13-54-54-041-com-android-chrome.png", 
+  "link":"https://raw.githubusercontent.com/ZinDown/data/refs/heads/main/japan.json", 
+  "type":"x"
+}
+]
+}
